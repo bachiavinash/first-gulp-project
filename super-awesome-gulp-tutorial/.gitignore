@@ -1,3 +1,4 @@
 # GIT Ignore files #
 ####################
 testignore/
+node_modules/
